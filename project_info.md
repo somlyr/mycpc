@@ -7,6 +7,7 @@
     * [Proxmox installation from USB device](https://pve.proxmox.com/wiki/Prepare_Installation_Media#installation_prepare_media)
   * [Proxmox wiki spice howto](https://pve.proxmox.com/wiki/SPICE)
 * [Proxmox source](https://git.proxmox.com/)
+  * [Proxmox doc for developer](https://pve.proxmox.com/wiki/Developer_Documentation)
 
 #### 工具
 * USB启动盘制作工具
