@@ -10,6 +10,9 @@
   * [Proxmox doc for developer](https://pve.proxmox.com/wiki/Developer_Documentation)
   * [Setup PVE development environment](https://github.com/proxmox/pve-common)
 
+* [PVE 系统定制系列]
+  * [1](https://ghost.livexia.xyz/pve/)
+
 #### 工具
 * USB启动盘制作工具
   * [etcher](https://www.balena.io/etcher/)
