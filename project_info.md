@@ -8,6 +8,7 @@
   * [Proxmox wiki spice howto](https://pve.proxmox.com/wiki/SPICE)
 * [Proxmox source](https://git.proxmox.com/)
   * [Proxmox doc for developer](https://pve.proxmox.com/wiki/Developer_Documentation)
+  * [Setup PVE development environment](https://github.com/proxmox/pve-common)
 
 #### 工具
 * USB启动盘制作工具
