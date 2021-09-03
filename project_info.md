@@ -12,7 +12,7 @@
   * [Setup PVE development environment](https://github.com/proxmox/pve-common)
 
 * Proxmox security
-  * [vyos on proxmox](https://vyos.io/solutions/vyos-on-proxmox/)
+  * [Vyos on Proxmox](https://vyos.io/solutions/vyos-on-proxmox/)
 
 * Proxmox client
   * [virt-manager source](https://virt-manager.org/scm/)
