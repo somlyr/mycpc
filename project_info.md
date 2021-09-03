@@ -11,6 +11,9 @@
   * [Proxmox doc for developer](https://pve.proxmox.com/wiki/Developer_Documentation)
   * [Setup PVE development environment](https://github.com/proxmox/pve-common)
 
+* Proxmox security
+  * [vyos on proxmox](https://vyos.io/solutions/vyos-on-proxmox/)
+
 * Proxmox client
   * [virt-manager source](https://virt-manager.org/scm/)
   * [virt-viewer source](https://gitlab.com/virt-viewer/virt-viewer)
