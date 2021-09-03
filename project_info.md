@@ -15,6 +15,7 @@
   * [virt-manager source](https://virt-manager.org/scm/)
   * [virt-viewer source](https://gitlab.com/virt-viewer/virt-viewer)
   * [virt-viewer build from source gitlab](https://gitlab.com/virt-viewer/virt-viewer/-/jobs/1540698337)
+  * [android desktop client](https://github.com/iiordanov/remote-desktop-clients)
 * PVE 系统定制系列
   * [Proxmox PVE安装-01](https://ghost.livexia.xyz/pve/)
   * [Proxmox PVE镜像分析与定制](https://luminizeh.com/2019/03/07/Proxmox-VE%E9%95%9C%E5%83%8F%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%9A%E5%88%B6/)
