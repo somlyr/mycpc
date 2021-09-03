@@ -13,8 +13,8 @@
 * Proxmox client
   * [virt-viewer source](https://gitlab.com/virt-viewer/virt-viewer)
 * PVE 系统定制系列
-  * [1](https://ghost.livexia.xyz/pve/)
-  * [Proxmox VE镜像分析与定制](https://luminizeh.com/2019/03/07/Proxmox-VE%E9%95%9C%E5%83%8F%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%9A%E5%88%B6/)
+  * [Proxmox PVE安装-01](https://ghost.livexia.xyz/pve/)
+  * [Proxmox PVE镜像分析与定制](https://luminizeh.com/2019/03/07/Proxmox-VE%E9%95%9C%E5%83%8F%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%9A%E5%88%B6/)
 
 #### 工具
 * USB启动盘制作工具
