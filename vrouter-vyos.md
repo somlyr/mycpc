@@ -46,3 +46,7 @@ set service dns forwarding dhcp eth0
 ```
 set service dns forwarding listen-address 10.100.100.1
 ```
+>配置允许访问DNS服务的内网地址
+```
+set service dns forwarding allow-from 10.100.100.0/24
+```
