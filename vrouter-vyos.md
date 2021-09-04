@@ -50,3 +50,11 @@ set service dns forwarding listen-address 10.100.100.1
 ```
 set service dns forwarding allow-from 10.100.100.0/24
 ```
+#### 配置NAT
+> 使用internet侧接口地址作为地址池
+```
+set nat source rule 1 desciption mycpc-nat-used-ifaddr
+set nat source rule 1 outbound-interface eth0
+set nat source rule 1 source address 10.100.100.0/24
+set nat source rule 1 translation address masquerade
+```
