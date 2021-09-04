@@ -11,7 +11,7 @@
   * [Proxmox doc for developer](https://pve.proxmox.com/wiki/Developer_Documentation)
   * [Setup PVE development environment](https://github.com/proxmox/pve-common)
 
-* Proxmox security
+* Proxmox 
   * [Vyos on Proxmox](https://vyos.io/solutions/vyos-on-proxmox/)
 
 * Proxmox client
