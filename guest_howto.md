@@ -1,6 +1,7 @@
 #### Windows虚机设置
 * [最佳实践参考-just for win7](https://pve.proxmox.com/wiki/Windows_7_guest_best_practices)
 * [Win10 安装Virtual IO驱动](https://pve.proxmox.com/wiki/Windows_VirtIO_Drivers)
+* [Fedora VirtIO Driver 源站下载](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/)
 
 > 主要准备活动
 * 下载最新稳定版 For Win8-12[VirtIO Dirver virtio-win-0.1.196-1](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.196-1/virtio-win-0.1.196.iso)
