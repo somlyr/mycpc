@@ -8,5 +8,6 @@
 * 客户端访问窗口resize问题
 > 确定在guest VM中spice-vdagent已正确安装并运行，确认guest中video memory配置是否足够支撑当前的窗口分辨率及尺寸；修改video memory配置需要重启VM；
 
-#### [c# c4pve tools](https://www.cv4pve-tools.com/)
-#### [go spice quickconnect](https://github.com/Elbandi/proxmox-spice-quickconnect)
+* 开源项目参考(virt-viewer wrapper)
+  * [c4pve tools](https://www.cv4pve-tools.com/),**C#**
+  * [spice quickconnect](https://github.com/Elbandi/proxmox-spice-quickconnect),**Golang** 
