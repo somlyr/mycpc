@@ -12,7 +12,7 @@
   * [c4pve tools](https://www.cv4pve-tools.com/)    *[C#]*
   * [spice quickconnect](https://github.com/Elbandi/proxmox-spice-quickconnect)    *[Golang]*
   * [cnovirt](https://github.com/cnovirt/opencc-ovirt-pro-win)    *[NodeJS]*
-  * [remote-desktop-client source]()
+  * [remote-desktop-client source](https://github.com/iiordanov/remote-desktop-clients)
   * [remote-desktop-client opaque apk](https://napkforpc.com/apk/com.undatech.opaque/)
 
 #### USB Redirect
