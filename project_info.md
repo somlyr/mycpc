@@ -26,6 +26,7 @@
 * PVE 系统定制系列
   * [Proxmox PVE安装-01](https://ghost.livexia.xyz/pve/)
   * [Proxmox PVE镜像分析与定制](https://luminizeh.com/2019/03/07/Proxmox-VE%E9%95%9C%E5%83%8F%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%9A%E5%88%B6/)
+  * [Proxmox PVE换肤](https://github.com/Weilbyte/PVEDiscordDark)
 
 * 其他虚拟机管理工具
   * [RedHat虚拟机管理](https://access.redhat.com/documentation/zh-cn/red_hat_virtualization/4.0/html/virtual_machine_management_guide/index)
