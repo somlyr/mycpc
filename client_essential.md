@@ -16,17 +16,17 @@
   * [remote-desktop-client opaque apk](https://napkforpc.com/apk/com.undatech.opaque/)
 
 * windows下virt-viewer 10.0客户端spice无声音问题
-> 下载vv 7/9/10版本
-  * 下载[virt-viewer 7](https://virt-manager.org/download/sources/virt-viewer/virt-viewer-x64-7.0.msi)
-  * 下载[virt-viewer 9](https://releases.pagure.org/virt-viewer/virt-viewer-x64-9.0-1.1.msi)
-  * 下载[virt-viewer 10](https://virt-manager.org/download/)
-> 解压缩 vv 7/9 msi获取3个文件
+  * 下载vv 7/9/10版本
+    * 下载[virt-viewer 7](https://virt-manager.org/download/sources/virt-viewer/virt-viewer-x64-7.0.msi)
+    * 下载[virt-viewer 9](https://releases.pagure.org/virt-viewer/virt-viewer-x64-9.0-1.1.msi)
+    * 下载[virt-viewer 10](https://virt-manager.org/download/)
+  * 解压缩 vv 7/9 msi获取3个文件
 ```
 VirtViewer v7.0-256\lib\gstreamer-1.0\libgstdirectsoundsink.dll
 VirtViewer v9.0-257\lib\gstreamer-1.0\libgstcoreelements.dll
 VirtViewer v9.0-257\lib\gstreamer-1.0\libgstcoretracers.dll
 ```
-> 安装vv10，并用vv7/9中的3个文件替换vv10中对应文件
+  * 安装vv10，并用vv7/9中的3个文件替换vv10中对应文件
 
 #### PVE API
 * 通过PVE Rest API定制客户端(+virtviewer)
