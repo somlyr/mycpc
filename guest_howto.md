@@ -17,8 +17,7 @@
 * Reboot VM
 
 #### Window10虚机激活
-> 注册表添加SkipRearm选项
-* 启动regedit编辑注册表选项
+> 启动regedit编辑注册表选项,添加SkipRearm选项
 ```
 在HKEY_LOCAL_MACHINE下设置DWord键值:SkipRearm=0
 ```
