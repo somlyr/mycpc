@@ -21,7 +21,8 @@
 >   * 下载[virt-viewer 9](https://releases.pagure.org/virt-viewer/virt-viewer-x64-9.0-1.1.msi)
 >   * 下载[virt-viewer 10](https://virt-manager.org/download/)
 > * 解压缩 vv 7/9 msi获取3个文件
-> ```
+>
+```
 VirtViewer v7.0-256\lib\gstreamer-1.0\libgstdirectsoundsink.dll
 VirtViewer v9.0-257\lib\gstreamer-1.0\libgstcoreelements.dll
 VirtViewer v9.0-257\lib\gstreamer-1.0\libgstcoretracers.dll
