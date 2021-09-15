@@ -15,6 +15,11 @@
   * [remote-desktop-client source](https://github.com/iiordanov/remote-desktop-clients)
   * [remote-desktop-client opaque apk](https://napkforpc.com/apk/com.undatech.opaque/)
 
+#### PVE API
+* 通过PVE Rest API定制客户端(+virtviewer)
+  * [PVE API wiki](https://pve.proxmox.com/wiki/Proxmox_VE_API)
+  * [PVE API online](https://pve.proxmox.com/pve-docs/api-viewer/#/nodes/{node}/qemu/{vmid}/spiceproxy)
+
 #### USB Redirect
 * 使用Windows客户端上的USB设备
 > 如果需要把 Windows 客户端系统上的 USB 设备重定向到虚拟机上，则需要在 Windows 客户端上安装 usbdk。您需要确定所使用的 usbdk 版本与客户端系统的系统相匹配。例如，64 位版的 usbdk 必须安装在 64 位的 Windows 系统上。
