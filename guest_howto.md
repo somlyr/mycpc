@@ -15,3 +15,27 @@
 * Follow its instructions.
 * (Optional) use the **virtio-win-guest-tools** wizard to install the QEMU Guest Agent and the SPICE agent for an improved remote-viewer experience.
 * Reboot VM
+
+#### Window10虚机激活
+> 注册表添加SkipRearm选项
+* 启动regedit编辑注册表选项
+```
+在HKEY_LOCAL_MACHINE下设置DWord键值:SkipRearm=0
+```
+> 通过KMS激活系统，以管理员身份运行CMD
+```
+win10专业版用户请依次输入：
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /skms kms.03k.org
+slmgr /ato
+
+win10企业版用户请依次输入：
+slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
+slmgr /skms kms.03k.org
+slmgr /ato
+
+win10家庭版用户依次输入：
+slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+slmgr /skms kms.03k.org
+slmgr /ato
+```
