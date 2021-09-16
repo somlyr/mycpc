@@ -4,7 +4,8 @@
 * [Fedora VirtIO Driver 源站下载](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/)
 
 > 主要准备活动
-* 下载最新稳定版 For Win8-12[VirtIO Dirver virtio-win-0.1.196-1](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.196-1/virtio-win-0.1.196.iso)
+* 下载最新稳定版 For [Win8-12](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.196-1/virtio-win-0.1.196.iso)
+* 下载最新稳定版 For [Win7](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.173-4/virtio-win.iso)
 * VM显示选择spice，同时显存设置128M(大一些)
 * 选择VM创建ISO时，除windows ISO外，再额外创建一个CDROM驱动器并添加[windows virtio iso](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/virtio-win.iso)
 * 在VM安装过程中如出现无法发现Disk的情况，可能和所选的磁盘驱动待安装有关，可在安装界面中选择所需的VirtIO驱动安装解决
