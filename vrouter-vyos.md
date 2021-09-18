@@ -15,6 +15,14 @@ set interface ethernet eth1 address 10.100.100.1/24
 commit
 save
 ```
+#### 配置默认网关
+> 通过静态路由配置默认网关
+```
+configure
+set protocols static route 0.0.0.0/0 next-hop 192.168.168.254 distance 1
+commit
+save
+```
 #### 配置DHCP服务
 > 指定DHCP网关
 ```
