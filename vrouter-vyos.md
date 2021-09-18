@@ -1,3 +1,12 @@
+#### 配置用户
+> 设置用户名/密码
+```
+configure
+set system login user **username** authentication plaintext-password **password**
+commit
+save
+exit
+```
 #### 配置接口地址
 > net0连接公网，net1连接内网
 ```
