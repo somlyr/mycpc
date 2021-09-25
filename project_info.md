@@ -22,6 +22,7 @@
   * [virt-viewer build from source gitlab](https://gitlab.com/virt-viewer/virt-viewer/-/jobs/1540698337)
   * [virt-viewer build from source *disused*](https://lists.freedesktop.org/archives/spice-devel/2012-November/011563.html)
   * [android desktop client](https://github.com/iiordanov/remote-desktop-clients)
+  * [libvirt based application](https://libvirt.org/apps.html)
 
 * PVE 系统定制系列
   * [Proxmox PVE安装-01](https://ghost.livexia.xyz/pve/)
