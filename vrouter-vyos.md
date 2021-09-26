@@ -1,3 +1,5 @@
+#### [官方文档](https://docs.vyos.io/en/equuleus/)
+
 #### 配置用户
 > 设置用户名/密码
 ```
