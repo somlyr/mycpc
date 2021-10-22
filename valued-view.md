@@ -6,3 +6,6 @@
 #### 微软云桌面参考
 [云桌面规划与设计](https://docs.microsoft.com/zh-cn/windows-server/remote/remote-desktop-services/rds-plan-and-design)
 [云桌面客户端](https://docs.microsoft.com/zh-cn/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients)
+
+#### Spice技术
+[Spice参考，含QXL](https://xhansong.gitbooks.io/spice-guidebook/content/qxlshe_bei.html)
