@@ -1,5 +1,5 @@
 ##瘦客户端方案
-#### * [Opensource ThinStation](https://github.com/Thinstation/thinstation)
+#### [Opensource ThinStation](https://github.com/Thinstation/thinstation)
 > ThinStation is a basic and small, yet very powerful, Open Source thin client operating system supporting all major connectivity protocols:
 * Citrix ICA
 * [Redhat Spice](https://www.spice-space.org/)
