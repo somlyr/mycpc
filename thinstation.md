@@ -2,7 +2,7 @@
 #### [Opensource ThinStation](https://github.com/Thinstation/thinstation)
 > ThinStation is a basic and small, yet very powerful, Open Source thin client operating system supporting all major connectivity protocols:
 * Citrix ICA
-* Redhat Spice
+* [Redhat Spice](https://www.spice-space.org/)
 * [NoMachine NX](https://www.nomachine.com/?spm=a2c6h.12873639.0.0.3afb1395H0gVxo), X11解决方案
 * 2X ThinClient
 * Microsoft RDP, via RDesktop/FreeRDP
