@@ -1,0 +1,14 @@
+1、调试环境：https://221.231.137.215:18091/
+   调试用户： vega/vega123
+   管理员用户：admin/vega123
+   
+   
+2、guacamole文档：http://guacamole.apache.org/doc/gug/
+
+3、架构说明：
+   guacd：使用guacamole提供的1.3.0版本，该容器完成guacamole协议到rdp协议的转换；
+   cloudgw:使用next-terminal,进行权限控制、用户管理、资产管理、等；
+           https://github.com/dushixiang/next-terminal
+   MySQL：数据库；
+   nginx：完成https卸载，转成http代理到cloudgw
+   浏览器/客户端：集成了guacamole-common-js，API调用可参考https://github.com/dushixiang/next-terminal/web的实现，该前端基于react框架
