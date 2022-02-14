@@ -25,5 +25,5 @@
 #### syncthing初始化配置
 > syncthing初始启动后，根据提示进行初始设置
 * 设置WebUI的访问帐号及安全模式
-[](asset/syncthing-init-setting-01.png)
+![初始设置](asset/syncthing-init-setting-01.png)
 
