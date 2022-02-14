@@ -15,6 +15,8 @@
 * [Windows-x86-64版本](https://github.com/syncthing/syncthing/releases/download/v1.19.0/syncthing-windows-amd64-v1.19.0.zip)
 * [Windows-arm-64版本](https://github.com/syncthing/syncthing/releases/download/v1.19.0/syncthing-windows-arm64-v1.19.0.zip)
 
+----
+
 ### 下载对应安装包并使用
 
 1. **Linux示例**
