@@ -48,6 +48,7 @@
 点击 **设置** 按钮,进入设置页面
 
 ![设置](asset/syncthing-init-setting-02-01.png)
+
 填写 **设备名** 后，点击 **编辑文件夹默认值** 进入文件夹默认设置页面
 
 ![设置](asset/syncthing-init-setting-02-01-01.png)
@@ -66,6 +67,7 @@
 点击 **Default fold**，**暂停** 此文件夹
 
 ![设置](asset/syncthing-init-setting-03.png)
+
 点击 **选项**，进入文件夹设置页面，点击页面中**移除**按钮，移除默认文件夹
 
 ![设置](asset/syncthing-init-setting-03-01.png)
